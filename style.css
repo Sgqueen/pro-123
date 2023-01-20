@@ -1,0 +1,34 @@
+.heading{
+
+    font-size: 22px;
+    margin: 0px;
+    width: 100%;
+    height: 100px;
+    box-shadow: 20px 10px 40px lawngreen;
+}
+
+.note{
+    font-size: 10px;
+    color: darkslategray;
+    width: 100%;
+}
+
+.footer{
+
+    position: fixed;
+    bottom: 0;
+    background-color: darksalmon;
+    text-align: center;
+    width: 100%;
+    line-height: 3;
+    color: rgb(13, 84, 81);
+    
+    font-family: 'DynaPuff', cursive;
+}
+
+canvas{
+
+    border: 8px double darkblue;
+    box-shadow: 10px 10px 30px olive;
+    border-radius: 30px;
+}
